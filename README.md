@@ -12,7 +12,7 @@ During this class, you will learn:
 Here are the activities you will complete in this class. If you get stuck or have any questions, please refer to the documents linked here for more information.
 
 1. [x] Comment on [this issue](https://github.com/certify/template-everyone/issues/1) with one thing you are hoping to learn in todays training.
-2. [ ]Create an issue to add your bio to the class site. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
+2. [ ] Create an issue to add your bio to the class site. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
 3. [ ] Add a bio to the class site. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/add-file-on-github.md)
 4. [ ] Comment on a Pull Request.
 5. [ ] Make a change to your bio on the class site. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/changing-files-on-GitHub.md)

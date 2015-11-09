@@ -19,7 +19,7 @@ Here are the activities you will complete in this class. If you get stuck or hav
 6. [ ] Merge your Pull Request. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
 7. [x] Fork this repository.
 8. [x] Clone this repository to your desktop.  [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/clone-a-repo.md)
-9. [ ] Make a change to your bio using the desktop apps. [Instructions] (https://github.com/certify/template-everyone/blob/master/instructions/make-changes-on-desktop.md)
-10. [ ] Create a new file using the desktop apps. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/new-file-on-desktop.md)
+9. [x] Make a change to your bio using the desktop apps. [Instructions] (https://github.com/certify/template-everyone/blob/master/instructions/make-changes-on-desktop.md)
+10. [x] Create a new file using the desktop apps. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/new-file-on-desktop.md)
 11. [x] Push your changes to GitHub. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/push-changes-desktop.md)
 12. [x] Merge your changes. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
